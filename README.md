@@ -1,0 +1,1 @@
+Zuno Chat is a full-stack AI-powered chatbot application that enables intelligent conversational interactions. It includes a frontend client and backend services that together deliver real-time chat experiences, user authentication, and scalable deployment.
